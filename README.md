@@ -24,6 +24,6 @@ response
   "Tracking History": "Traced by 2 people in 24 hrs"
 }
 
-~ AP BOTS 
+~ VDH BOTS 
 
-DEV : @Dev_Piyush • @PyAnuj
+DEV : @shadowx0wner • @ADHSMM
